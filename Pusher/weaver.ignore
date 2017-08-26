@@ -1,0 +1,7 @@
+﻿﻿Grpc.*
+Google.*
+System.*
+Proto.*
+grpc_*
+libgrpc*
+Microsoft.*
